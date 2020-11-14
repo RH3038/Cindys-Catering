@@ -1,0 +1,15 @@
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\bin\Debug\netcoreapp3.1\Cindys_Catering.exe
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\bin\Debug\netcoreapp3.1\Cindys_Catering.deps.json
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\bin\Debug\netcoreapp3.1\Cindys_Catering.runtimeconfig.json
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\bin\Debug\netcoreapp3.1\Cindys_Catering.runtimeconfig.dev.json
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\bin\Debug\netcoreapp3.1\Cindys_Catering.dll
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\bin\Debug\netcoreapp3.1\Cindys_Catering.pdb
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.csprojAssemblyReference.cache
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.Form1.resources
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.csproj.GenerateResource.cache
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.AssemblyInfoInputs.cache
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.AssemblyInfo.cs
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.csproj.CoreCompileInputs.cache
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.dll
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.pdb
+C:\Users\ihear\source\repos\Cindys_Catering\Cindys_Catering\obj\Debug\netcoreapp3.1\Cindys_Catering.genruntimeconfig.cache
